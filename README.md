@@ -1,5 +1,5 @@
 # es-theme-rq-full-v5
-Tema compativel com Retrobat 5.0
+Tema compátivel com Retrobat 5.0
 
 Tema simples com varias opções de personalização.
 
