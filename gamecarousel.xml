@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+
+<view name="gamecarousel">
+
+<gamecarousel name="gamecarousel">
+<zIndex>999</zIndex>	      
+<type>vertical_wheel</type>
+<pos>0.36 0</pos>
+<size>1 1</size>
+<logoScale>1.2</logoScale>
+<logoSize>0.150 0.260</logoSize>
+<color>00000000</color>
+<maxLogoCount>13</maxLogoCount>
+<logoRotation>-14</logoRotation>
+<logoRotationOrigin>2.0 0.2</logoRotationOrigin>
+<logoAlignment>center</logoAlignment>   
+<imageSource>marquee</imageSource>
+</gamecarousel> 
+
+<image name="wallpaper1">
+<pos>0.5 0.5</pos>
+<origin>0.5 0.5</origin>
+<size>1 1</size>
+<path>./_inc/WALLPAPER1/${system.theme}.png</path>
+<zIndex>1</zIndex> 
+</image>
+
+<helpsystem name="help">
+<pos>0 0.965</pos>    
+</helpsystem>
+		
+<image name="pointer1" extra="true">
+<pos>0.97 0.50</pos>
+<origin>0.5 0.5</origin>
+<size>0.055 0.155</size>
+<color>ffffffA6</color>
+<path>./art/sistemas/pointer/default.png</path>
+<path>./art/sistemas/pointer/${system.theme}.png</path>
+<zIndex>999</zIndex> 
+</image>
+
+<image name="logo">
+<pos>0.1 0.1</pos>
+<origin>0.5 0.5</origin>
+<maxSize>0.15 0.15</maxSize>
+<color>ffffffA6</color>
+<path>./_inc/logosclean/${system.theme}.png</path>
+<zIndex>999</zIndex> 
+</image>
+
+<video name="md_video">
+<pos>0.16 0.75</pos>
+<maxSize>0.40 0.40</maxSize>
+<origin>0.5 0.5</origin>
+<delay>2</delay>
+<showSnapshotNoVideo>false</showSnapshotNoVideo>
+<showSnapshotDelay>false</showSnapshotDelay>
+<zIndex>101</zIndex>
+</video>
+
+<image name="md_image">
+<pos>0.08 0.55</pos>
+<origin>0 0</origin>
+<maxSize>0.2 0.40</maxSize>
+<zIndex>101</zIndex>
+</image>
+
+<image name="md_fanart">
+<pos>0.3520 0.335</pos>
+<origin>0 0</origin>
+<maxSize>0.295 0.32</maxSize>
+<zIndex>5</zIndex>
+</image>
+
+<image name="md_thumbnail">
+ <visible>false</visible> 
+ </image>
+		
+<image name="md_marquee">
+<pos>0.51 0.10</pos>
+<maxSize>0.26 0.10</maxSize>
+<origin>0.5 0.5</origin>
+<zIndex>4</zIndex>
+</image>
+
+ <rating name="md_rating">
+ <visible>false</visible> 
+ </rating>
+		
+  <image name="sombra" extra="true">
+    <origin>0 0</origin>
+    <pos>0 0</pos>
+    <size>1 1</size>
+	<path>./_inc/vewlix centro.png</path>
+    <zIndex>3</zIndex> 
+  </image> 
+	
+	<image name="sombra1" extra="true">
+    <origin>0 0</origin>
+    <pos>0 0</pos>
+    <size>1 1</size>
+	<path>./_inc/caratula.png</path>
+    <zIndex>5</zIndex> 
+    </image> 
+	
+	<image name="art" extra="true">
+	<origin>0.5 0.5</origin>
+	<pos>0.5 0.5</pos>
+	<minSize>1 1</minSize>
+	<path>./_inc/images/overlay1.png</path>
+	<zIndex>100</zIndex>
+	</image>
+   
+ <text name="md_name">
+ <visible>false</visible> 
+ <pos>0.2 0.60</pos> 
+ <maxSize>0.3 0.1</maxSize>
+  </text>
+	
+	<image name="logo03" extra="true">
+ <visible>false</visible> 
+	</image>
+	
+	<text name="logoText">
+ <visible>false</visible> 
+    </text>
+		
+    <image name="screen_effect" extra="true">
+ <visible>false</visible> 
+	</image>
+	
+	<text name=" md_lbl_players,md_lbl_publisher,md_lbl_developer,logoText,md_developer,md_lbl_releasedate,md_releasedate,md_lbl_rating,md_lbl_genre,md_genre,md_description,md_lbl_playcount,md_lbl_lastplayed, md_lbl_gametime,md_lbl_playcount,md_lbl_lastplayed,md_lbl_gametime,md_playcount,md_lastplayed,md_gametime,md_players">
+<visible>false</visible>
+</text> 
+
+</view>  
+
+</theme>

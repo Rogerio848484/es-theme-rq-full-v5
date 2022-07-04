@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<theme defaultView="video">
+<formatVersion>7</formatVersion>
+
+ <feature supported="carousel">
+   <view name="system">
+	<sound name="directory">
+    <path>./_inc/music</path>
+	</sound>	  
+   </view>
+</feature>
+
+<!---------------------------variable------------------------------------- -->
+        
+   <subset name="Menu" displayName="Opções de Menu">
+   <include name="MENU 1.0 - 7 Wheel Horizontal Inferior" displayName="MENU 1.0 - 7 Wheel Horizontal Inferior">./MENU 1.0 - 7 Wheel Horizontal Inferior.xml</include>
+   <include name="MENU 1.1 - 7 Wheel Horizontal Inferior C/ Cinturão Largo" displayName="MENU 1.1 - 7 Wheel Horizontal Inferior C/ Cinturão Largo">./MENU 1.1 - 7 Wheel Horizontal Inferior C Cinturao Largo.xml</include>
+   <include name="MENU 1.2 - 7 Wheel Horizontal Inferior C/ Cinturão Fino" displayName="MENU 1.2 - 7 Wheel Horizontal Inferior C/ Cinturão Fino">./MENU 1.2 - 7 Wheel Horizontal Inferior C Cinturao Fino.xml</include>
+   <include name="MENU 1.3 - 7 Wheel Horizontal Inferior FANART ALEATORIA" displayName="MENU 1.3 - 7 Wheel Horizontal Inferior FANART ALEATORIA">./MENU 1.3 - 7 Wheel Horizontal Inferior FANART ALEATORIA.xml</include>
+   <include name="MENU 2.0 - 5 Wheel Horizontal Inferior" displayName="MENU 2.0 - 5 Wheel Horizontal Inferior">./MENU 2.0 - 5 Wheel Horizontal Inferior.xml</include> 
+   <include name="MENU 2.1 - 5 Wheel Horizontal Inferior C/ Cinturao Largo" displayName="MENU 2.1 - 5 Wheel Horizontal Inferior C/ Cinturao Largo">./MENU 2.1 - 5 Wheel Horizontal Inferior C Cinturao Largo.xml</include>
+   <include name="MENU 2.2 - 5 Wheel Horizontal Inferior C/ Cinturao Fino" displayName="MENU 2.2 - 5 Wheel Horizontal Inferior C/ Cinturao Fino">./MENU 2.2 - 5 Wheel Horizontal Inferior C Cinturao Fino.xml</include>
+   <include name="MENU 3.0 - Browbows Doido Fundo Preto" displayName="MENU 3.0 - Browbows Doido Fundo Preto">./MENU 3.0 - Browbows Doido Fundo Preto.xml</include>
+   <include name="MENU 3.1 - Browbows Doido Galaxia" displayName="MENU 3.1 - Browbows Doido Galaxia">./MENU 3.1 - Browbows Doido Galaxia.xml</include>
+   <include name="MENU 4.0 - Browbows Doido Roleta Esquerda Galaxia" displayName="MENU 4.0 - Browbows Doido Roleta Esquerda Galaxia">./MENU 4.0 - Browbows Doido Roleta Esquerda Galaxia.xml</include>
+   <include name="MENU 4.1 - Browbows Doido Roleta Esquerda Preto" displayName="MENU 4.1 - Browbows Doido Roleta Esquerda Preto">./MENU 4.1 - Browbows Doido Roleta Esquerda Preto.xml</include>
+   <include name="MENU 4.2 - Browbows Doido Roleta Esquerda - Video Center - GOKU" displayName="MENU 4.2 - Browbows Doido Roleta Esquerda - Video Center - GOKU">./MENU 4.2 - Browbows Doido Roleta Esquerda - Video Center - GOKU.xml</include>
+   <include name="MENU 5.0 - Vewlix Esquerda" displayName="MENU 5.0 - Vewlix Esquerda">./MENU 5.0 - Vewlix Esquerda.xml</include>
+   <include name="MENU 5.5 - Vewlix Centro" displayName="MENU 5.5 - Vewlix Centro">./MENU 5.5 - Vewlix Centro.xml</include>
+   <include name="MENU 6.0 - Vewlix Direita" displayName="MENU 6.0 - Vewlix Direita">./MENU 6.0 - Vewlix Direita.xml</include> 
+   <include name="MENU 7.0 - 1 Wheel Horizontal Inferior / Full Video" displayName="MENU 7.0 - 1 Wheel Horizontal Inferior / Full Video">./MENU 7.0 - 1 Wheel Horizontal Inferior  Full Video.xml</include>
+   <include name="MENU 8.0 - Simples - Recalbox" displayName="MENU 8.0 - Simples - Recalbox">./MENU 8.0 - Simples - Recalbox.xml</include>
+   <include name="MENU 9.0 - Cine Pastor" displayName="MENU 9.0 - Cine Pastor">./MENU 9.0 - Cine Pastor.xml</include>
+   <include name="MENU 10.0 - RQ INFOS C/FADE" displayName="MENU 10.0 - RQ INFOS C/FADE">./MENU 10.0 - RQ INFOS CFADE.xml</include>
+   <include name="MENU 10.1 - RQ INFOS S/FADE" displayName="MENU 10.1 - RQ INFOS S/FADE">./MENU 10.1 - RQ INFOS SFADE.xml</include>
+   <include name="MENU 11.0 - 7 Wheel Horizontal Inferior" displayName="MENU 11.0 - 7 Wheel Horizontal Inferior">./MENU 11.0 - 7 Wheel Horizontal Inferior.xml</include>
+   <include name="MENU 11.1 - 7 Wheel Horizontal Inferior C/ Cinturao Largo" displayName="MENU 11.1 - 7 Wheel Horizontal Inferior C/ Cinturao Largo">./MENU 11.1 - 7 Wheel Horizontal Inferior C Cinturao Largo.xml</include>
+   <include name="MENU 11.2 - 7 Wheel Horizontal Inferior C/ Cinturao Fino" displayName="MENU 11.2 - 7 Wheel Horizontal Inferior C/ Cinturao Fino">./MENU 11.2 - 7 Wheel Horizontal Inferior C Cinturao Fino.xml</include>
+   <include name="MENU 12.0 - Quadrilhos" displayName="MENU 12.0 - Quadrilhos">./MENU 12.0 - Quadrilhos.xml</include>
+   <include name="MENU 13.0 - Big Destak Wheel Horizontal Center" displayName="MENU 13.0 - Big Destak Wheel Horizontal Center">./MENU 13.0 - Big Destak Wheel Horizontal Center.xml</include>
+   <include name="MENU 13.1 - Big Destak Wheel Horizontal Center C/ Fade" displayName="MENU 13.1 - Big Destak Wheel Horizontal Center C/ Fade">./MENU 13.1 - Big Destak Wheel Horizontal Center C Fade.xml</include>
+   <include name="MENU 13.2 - Big Destak Wheel Horizontal Center C/ Fade C/ Video" displayName="MENU 13.2 - Big Destak Wheel Horizontal Center C/ Fade C/ Video">./MENU 13.2 - Big Destak Wheel Horizontal Center C Fade C Video.xml</include>
+   </subset>
+ 
+   <subset name="Sons" displayName="Opções de Sons"> 
+   <include name="off" displayName="off">./XMLS/SOUND/off.xml</include>
+   <include name="hyperspin" displayName="hyperspin">./XMLS/SOUND/hyperspin.xml</include>
+   <include name="roleta" displayName="roleta">./XMLS/SOUND/roleta.xml</include>
+   <include name="classic" displayName="classic">./XMLS/SOUND/classic.xml</include>
+   <include name="Button" displayName="Button">./XMLS/SOUND/Button.xml</include>
+   <include name="cursor" displayName="cursor">./XMLS/SOUND/cursor.xml</include>
+   <include name="Golf" displayName="Golf">./XMLS/SOUND/Golf.xml</include>
+   <include name="Keiba" displayName="Keiba">./XMLS/SOUND/Keiba.xml</include>
+   <include name="mario" displayName="mario">./XMLS/SOUND/mario.xml</include>
+   <include name="Message" displayName="Message">./XMLS/SOUND/Message.xml</include>
+   <include name="Monopoly" displayName="Monopoly">./XMLS/SOUND/Monopoly.xml</include>
+   <include name="Phone" displayName="Phone">./XMLS/SOUND/Phone.xml</include>
+   <include name="Save" displayName="Save">./XMLS/SOUND/Save.xml</include>
+   <include name="slide" displayName="slide">./XMLS/SOUND/slide.xml</include>
+   <include name="Spin" displayName="Spin">./XMLS/SOUND/Spin.xml</include>
+   <include name="Yoshi" displayName="Yoshi">./XMLS/SOUND/Yoshi.xml</include>
+   <include name="moneda" displayName="moneda">./XMLS/SOUND/Yoshi2.xml</include>
+   <include name="ring" displayName="ring">./XMLS/SOUND/ring.xml</include>
+   <include name="zumb" displayName="zumb">./XMLS/SOUND/zumb.xml</include>
+   <include name="tone" displayName="tone">./XMLS/SOUND/tone.xml</include>
+   <include name="iata" displayName="iata">./XMLS/SOUND/giata.xml</include>
+   <include name="scroll" displayName="scroll">./XMLS/SOUND/scroll.xml</include>
+   </subset>
+   
+   <subset name="Cores.Help" displayName="Opções de Cores Help,System,Clock"> 
+   <include subset="help" name="Color White">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/White.xml</include>
+   <include subset="help" name="color Plus">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/plus.xml</include>
+   <include subset="help" name="color purple">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/purple.xml</include>
+   <include subset="help" name="color red">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/red.xml</include>
+   <include subset="help" name="color Aqua">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/blue.xml</include>
+   <include subset="help" name="color orange">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/orange.xml</include>
+   <include subset="help" name="color green">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/green.xml</include>
+   <include subset="help" name="color yellow">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/yellow.xml</include>
+   <include subset="help" name="color pink">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/pink.xml</include>
+   <include subset="help" name="color grey">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/grey.xml</include>
+   <include subset="help" name="color Dark Blue">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/darkblue.xml</include>
+   <include subset="help" name="color violet">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/violet.xml</include>
+   <include subset="help" name="color candy">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/candy.xml</include>
+   <include subset="help" name="color green-alt">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/green-alt.xml</include>
+   <include subset="help" name="color purple-alt">./XMLS/COLOR HELPSYSTEM SYSTEM CLOCK/purple-alt.xml</include>
+   </subset>
+   
+   <subset name="Cores Menu" displayName="Opções de Cores Menu"> 
+   <include name="plus" displayName="plus">./XMLS/COLOR MENU/plus.xml</include>
+   <include name="purple" displayName="purple">./XMLS/COLOR MENU/purple.xml</include>
+   <include name="red" displayName="red">./XMLS/COLOR MENU/red.xml</include>
+   <include name="Aqua" displayName="Aqua">./XMLS/COLOR MENU/blue.xml</include>
+   <include name="orange" displayName="orange">./XMLS/COLOR MENU/orange.xml</include>
+   <include name="green" displayName="green">./XMLS/COLOR MENU/green.xml</include>
+   <include name="yellow" displayName="yellow">./XMLS/COLOR MENU/yellow.xml</include>
+   <include name="pink" displayName="pink">./XMLS/COLOR MENU/pink.xml</include>
+   <include name="grey" displayName="grey">./XMLS/COLOR MENU/grey.xml</include>
+   <include name="Dark Blue" displayName="Dark Blue">./XMLS/COLOR MENU/darkblue.xml</include>
+   <include name="violet" displayName="violet">./XMLS/COLOR MENU/violet.xml</include>
+   <include name="red-alt" displayName="red-alt">./XMLS/COLOR MENU/red-alt.xml</include>
+   <include name="yellow-alt" displayName="yellow-alt">./XMLS/COLOR MENU/yellow-alt.xml</include>
+   <include name="green-alt" displayName="green-alt">./XMLS/COLOR MENU/green-alt.xml</include>
+   <include name="purple-alt" displayName="purple-alt">./XMLS/COLOR MENU/purple-alt.xml</include>
+   </subset>
+   
+    <subset name="Icones" displayName="Opções de Botões"> 
+	<include subset="iconset" name="icon Default">./XMLS/ICONSETS/default.xml</include>
+   	<include subset="iconset" name="icon PSX">./XMLS/ICONSETS/psx.xml</include>
+	<include subset="iconset" name="icon SNES">./XMLS/ICONSETS/snes.xml</include>
+	<include subset="iconset" name="icon XBOX">./XMLS/ICONSETS/xbox.xml</include>
+	<include subset="iconset" name="icon ARCADE">./XMLS/ICONSETS/arcade.xml</include>
+	<include subset="iconset" name="icon Xbox One">./XMLS/ICONSETS/xboxone.xml</include>
+	<include subset="iconset" name="icon Switch">./XMLS/ICONSETS/switch.xml</include>
+	<include subset="iconset" name="icon PSX ALT">./XMLS/ICONSETS/psx1.xml</include>
+	<include subset="iconset" name="icon SNES ALT">./XMLS/ICONSETS/snesalt.xml</include>
+	</subset>
+	
+	<subset name="Fontes" displayName="Opções de Fontes"> 
+	<include subset="Font" name="American">./XMLS/FONTES MENU/American.xml</include>
+	<include subset="Font" name="Beauty">./XMLS/FONTES MENU/Beauty.xml</include>
+	<include subset="Font" name="Bold">./XMLS/FONTES MENU/Bold.xml</include>
+	<include subset="Font" name="Calligraphy">./XMLS/FONTES MENU/Calligraphy.xml</include>
+	<include subset="Font" name="Digib">./XMLS/FONTES MENU/Digib.xml</include>
+	<include subset="Font" name="Digital-Serial-Bold">./XMLS/FONTES MENU/Digital-Serial-Bold.xml</include>
+	<include subset="Font" name="Doo">./XMLS/FONTES MENU/Doo.xml</include>
+	<include subset="Font" name="Fiker">./XMLS/FONTES MENU/Fiker.xml</include>
+	<include subset="Font" name="Franchise">./XMLS/FONTES MENU/Franchise.xml</include>
+	<include subset="Font" name="Free">./XMLS/FONTES MENU/Free.xml</include>
+	<include subset="Font" name="good">./XMLS/FONTES MENU/good.xml</include>
+	<include subset="Font" name="GROBOLD">./XMLS/FONTES MENU/GROBOLD.xml</include>
+	<include subset="Font" name="Homizio">./XMLS/FONTES MENU/Homizio.xml</include>
+	<include subset="Font" name="impact">./XMLS/FONTES MENU/impact.xml</include>
+	<include subset="Font" name="kenyan">./XMLS/FONTES MENU/kenyan.xml</include>
+	<include subset="Font" name="light">./XMLS/FONTES MENU/light.xml</include>
+	<include subset="Font" name="Mario">./XMLS/FONTES MENU/Mario.xml</include>
+	<include subset="Font" name="mod">./XMLS/FONTES MENU/mod.xml</include>
+	<include subset="Font" name="Mono">./XMLS/FONTES MENU/Mono.xml</include>
+	<include subset="Font" name="OpenSans-Bold">./XMLS/FONTES MENU/OpenSans-Bold.xml</include>
+	<include subset="Font" name="OpenSans-Light">./XMLS/FONTES MENU/OpenSans-Light.xml</include>
+	<include subset="Font" name="PORKYS">./XMLS/FONTES MENU/PORKYS.xml</include>
+	<include subset="Font" name="pricedown">./XMLS/FONTES MENU/pricedown.xml</include>
+	<include subset="Font" name="rg">./XMLS/FONTES MENU/rg.xml</include>
+	<include subset="Font" name="Royalacid">./XMLS/FONTES MENU/Royalacid.xml</include>
+	<include subset="Font" name="segoeuil">./XMLS/FONTES MENU/segoeuil.xml</include>
+	<include subset="Font" name="Shaka_Pow">./XMLS/FONTES MENU/Shaka_Pow.xml</include>
+	<include subset="Font" name="Sketch3D">./XMLS/FONTES MENU/Sketch3D.xml</include>
+	<include subset="Font" name="Ubuntu-Medium">./XMLS/FONTES MENU/Ubuntu-Medium.xml</include>
+	<include subset="Font" name="ubuntu_condensed">./XMLS/FONTES MENU/ubuntu_condensed.xml</include>
+	<include subset="Font" name="zelek">./XMLS/FONTES MENU/Sketch3D.xml</include>
+	</subset>
+	
+	<subset name="Shader" displayName="Opções de Shader"> 
+	<include subset="Shader" name="Shader off">./art/sistemas/shader/off.xml</include>
+	<include subset="Shader" name="Shader 01">./art/sistemas/shader/scanlines.xml</include>
+    <include subset="Shader" name="Shader 02">./art/sistemas/shader/crt.xml</include>
+    <include subset="Shader" name="Shader 03">./art/sistemas/shader/scanlines3.xml</include>
+    <include subset="Shader" name="Shader 04">./art/sistemas/shader/scanlines4.xml</include>
+    <include subset="Shader" name="Shader 05">./art/sistemas/shader/scanlines5.xml</include>
+    <include subset="Shader" name="Shader 06">./art/sistemas/shader/scanlines10.xml</include>
+	</subset>
+	
+   <subset name="Info Sistemas" displayName="Informações dos Sistemas"> 
+   <include name="OFF" displayName="OFF"/>
+   <include name="Left" displayName="Left">./XMLS/INFO/LEFT/${system.theme}.xml</include>
+   <include name="Center" displayName="Center">./XMLS/INFO/center/${system.theme}.xml</include>
+   <include name="rigth" displayName="rigth">./XMLS/INFO/rigth/${system.theme}.xml</include>
+   </subset>
+	
+   <subset name="Videos Menu" displayName="Opções Video Menu"> 
+   <include name="Video Sistema" displayName="Video Sistema">./XMLS/VIDEO MENU/ATIVAR VIDEOS SISTEMAS.xml</include>
+   <include name="Video Aleatório" displayName="Video Aleatório">./XMLS/VIDEO MENU/ATIVAR VIDEOS ALEATORIOS.xml</include>
+   </subset>
+
+   <subset name="Logo Semi-Transparente" displayName="Logo Semi-Transparente"> 
+   <include name="ON" displayName="ON"/>
+   <include name="OFF" displayName="OFF">./XMLS/WHEELS XML/WHEEL MENU PRINCIPAL SEMI-TRANSPARENTES.xml</include>
+   </subset>
+	
+   <subset name="Tipo Wheel" displayName="Opções de Wheel"> 
+   <include name="Wheel Menu Off" displayName="Wheel Menu - Off">./XMLS/WHEELS XML/WHEEL ALEATÓRIA OFF.xml</include>
+   <include name="Wheel Espiral - Tema Horizontal" displayName="Wheel Espiral - Tema Horizontal">./XMLS/WHEELS XML/WHEEL ESPIRAL.xml</include>
+   <include name="Wheel Circular - Tema Horizontal" displayName="Wheel Circular - Tema Horizontal">./XMLS/WHEELS XML/WHEEL CIRCULAR.xml</include>
+   <include name="Wheel Bolha - Tema Horizontal" displayName="Wheel Bolha - Tema Horizontal">./XMLS/WHEELS XML/WHEEL BOLHA.xml</include>
+   <include name="Wheel Retangular Ultra Fina - Tema Horizontal" displayName="Wheel Retangular Ultra Fina - Tema Horizontal">./XMLS/WHEELS XML/WHEEL ULTRA FINA HORIZONTAL.xml</include>
+   <include name="Wheel Retangular Neon - Tema Horizontal" displayName="Wheel Retangular Neon - Tema Horizontal">./XMLS/WHEELS XML/WHEEL RETANGULAR NEON.xml</include>
+   <include name="Wheel clean - Tema Horizontal/Vertical" displayName="Wheel clean - Tema Horizontal/Vertical">./XMLS/WHEELS XML/WHEEL CLEAN.xml</include>
+   </subset>
+   
+   <subset name="Contorno da Fonte" displayName="Contorno da Fonte">
+   <include name="ON" displayName="ON">./XMLS/CONTORNO DA FONTE.xml</include>
+   <include name="OFF" displayName="OFF"/>
+   </subset>
+        
+   <subset name="Background" displayName="Backgrounds - Menu Principal">
+   <include name="Menu - OFF" displayName="Menu - OFF">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ALEATÓRIO OFF.xml</include>  
+   <include name="Alekfull NF" displayName="Alekfull NF">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ALEKFULL NX.xml</include>
+   <include name="Videogames" displayName="Videogames">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND VIDEOGAMES.xml</include>
+   <include name="Videogames 2" displayName="Videogames 2">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND VIDEOGAMES 2.xml</include>
+   <include name="Games" displayName="Games">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ARTES GAMES.xml</include>
+   <include name="Games 2" displayName="Games 2">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ARTES GAMES 2.xml</include>
+   <include name="Abstrato" displayName="Abstrato">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ABSTRATO.xml</include>
+   </subset>
+   
+   <subset name="Background Rodape" displayName="Background - Rodape">
+   <include name="Rodape OFF" displayName="OFF"/>
+   <include name="Rodape 01" displayName="Rodape 01">./XMLS/BACKGROUND RODAPE/Rodape 01.xml</include>
+   <include name="Rodape 02" displayName="Rodape 02">./XMLS/BACKGROUND RODAPE/Rodape 02.xml</include>
+   </subset>
+	
+   <subset name="Ativar Efeitos" displayName="Efeitos Menu Principal">
+   <include name="ON" displayName="ON">./XMLS/EFEITOS/ATIVAR EFEITOS.xml</include>
+   <include name="OFF" displayName="OFF">./XMLS/EFEITOS/DESATIVAR EFEITOS.xml</include>
+   </subset>
+	
+   <subset name="Ativar Correct Aspect Ratio Video" displayName="Aticar Correct Aspect Ratio Video">
+   <include name="OFF" displayName="OFF">./XMLS/ASPECTRATIO/ASPECTRATIOOFF.xml</include>
+   <include name="ON" displayName="ON">./XMLS/ASPECTRATIO/ASPECTRATIOON.xml</include>
+   </subset>
+      
+   <subset name="wallpaper" displayName="wallpaper" appliesTo="gamecarousel,basic,detailed,video,grid">
+   <include name="videogames" displayName="Videogames">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND VIDEOGAMES GAMELIST.xml</include>
+   <include name="personagem" displayName="Personagem">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ARTES GAMESLIST.xml</include>
+   <include name="originalWallpaper" displayName="Original"/>
+   </subset>	
+
+
+	
+		
+<!---------------------------screen------------------------------------- -->
+
+<view name="screen">
+<text name="clock">
+		<fontSize>0.034</fontSize>
+		<pos>0.89 0.9545</pos>
+		<size>0.10 0.058</size>
+		<verticalAlignment>right</verticalAlignment>
+		</text>
+		
+		<text name="datatime">
+		<fontSize>0.034</fontSize>
+		<fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
+		<pos>0.50 0.50</pos>
+		<size>0.10 0.058</size>
+		<verticalAlignment>right</verticalAlignment>
+		</text>
+		
+     <controllerActivity name="controllerActivity">
+      <pos>0.01 0.010</pos>
+      <size>0.085 0.025</size>
+      <itemSpacing>0.003</itemSpacing>
+      <imagePath>./_inc/gamepad.svg</imagePath>
+      <color>FFFFFF1A</color>
+      <activityColor>ff00001A</activityColor>
+      <hotkeyColor>ffffff1A</hotkeyColor>
+    </controllerActivity>
+
+    <batteryIndicator name="batteryIndicator">
+      <pos>0.955 0.0125</pos>
+      <size>0.033 0.033</size>
+      <incharge>./_inc/battery/incharge.svg</incharge>
+      <full>./_inc/battery/full.svg</full>
+      <at75>./_inc/battery/75.svg</at75>
+      <at50>./_inc/battery/50.svg</at50>
+      <at25>./_inc/battery/25.svg</at25>
+      <empty>./_inc/battery/empty.svg</empty>
+      <color>FFFFFFA0</color>
+      </batteryIndicator>
+      <batteryIndicator name="batteryIndicator" tinyScreen="true">
+      <pos>0.915 0.013</pos>
+      <size>0.07 0.07</size>
+      </batteryIndicator>
+    </view>
+
+<!---------------------------menu------------------------------------- -->
+
+<view name="menu">
+<menuText name="menutitle">
+<fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
+<color>00FF00</color>
+<fontSize>0.029</fontSize>
+</menuText>
+
+<menuText name="menufooter">
+<fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
+<fontSize>0.02</fontSize>
+</menuText>
+
+<menuText name="menutext">
+<fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
+<selectorGradientType>horizontal</selectorGradientType>
+<fontSize>0.025</fontSize>
+<color>ffffff</color>
+</menuText>
+
+<menuTextSmall name="menutextsmall">
+<fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
+<color>3366ff</color>
+<fontSize>0.03</fontSize>
+</menuTextSmall>
+
+<menuBackground name="menubg">
+<color>000000B7</color>
+<cornerSize>32 32</cornerSize>
+<path>./art/filter.png</path>
+</menuBackground>
+
+
+<menuIcons name="menuicons">
+<iconKodi>./_inc/icons/Kodi.png</iconKodi>
+<iconSystem>./_inc/icons/System.png</iconSystem>
+<iconUpdates>./_inc/icons/Updates.png</iconUpdates>
+<iconGames>./_inc/icons/Games.png</iconGames>
+<iconControllers>./_inc/icons/Controllers.png</iconControllers>
+<iconUI>./_inc/icons/UI.png</iconUI>
+<iconSound>./_inc/icons/Sound.png</iconSound>
+<iconNetwork>./_inc/icons/Network.png</iconNetwork>
+<iconScraper>./_inc/icons/Scraper.png</iconScraper>
+<iconAdvanced>./_inc/icons/Advanced.png</iconAdvanced>
+<iconQuit>./_inc/icons/Quit.png</iconQuit>
+<iconRestart>./_inc/icons/Restart.png</iconRestart>
+<iconShutdown>./_inc/icons/Shutdown.png</iconShutdown>
+<iconFastShutdown>./_inc/icons/Fastshutdown.png</iconFastShutdown>
+<iconRetroachievements>./_inc/icons/Contest.png</iconRetroachievements>
+</menuIcons>
+<menuTextEdit name="menutextedit">
+<inactive>./_inc/textinput_ninepatch.png</inactive>
+<active>./_inc/textinput_ninepatch_active.png</active>
+</menuTextEdit>
+</view>
+
+
+  
+  <!---------------------------  VISTAS LISTAS DE JOGOS----------------------- -->
+
+<include name="basic">./basic.xml</include>
+<include name="grid">./grid.xml</include>
+<include name="detailed">./detailed.xml</include>
+<include name="video">./video.xml</include>
+<include name="gamecarousel">./gamecarousel.xml</include>
+<include name="Gamelist Flix">./Gamelist-flix.xml</include>
+<include name="Gamelist Video Capa - Estilo (Snes, N64)">./Gamelist-Video-capa.xml</include>
+<include name="Gamelist Video Capa - Estilo (Gamecube,Ps2)">./Gamelist-Video-capa2.xml</include>
+<include name="Gamelist Video Capa - Estilo (PSX, Dreamcast)">./Gamelist-Video-capa3.xml</include>
+<include name="Gamelist RQ Lista">./Gamelist-RQ-lista.xml</include>
+<include name="Gamelist art">./Gamelist-art.xml</include>
+<include name="Gamelist Horizontal">./Gamelist-Horizontal.xml</include>
+ </theme>

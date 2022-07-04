@@ -1,0 +1,255 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<text name="systemInfo">
+    <glowColor>000000</glowColor>
+    <pos>0 0.90</pos>
+    <backgroundColor>00000000</backgroundColor>
+    <color>ffffff</color>
+    <rotation>0</rotation> 
+    <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+     <fontSize>0.040</fontSize>
+     <zIndex>999</zIndex>	     
+</text> 
+
+<image name="wallpaper1" extra="true">
+         <pos>0 0</pos>
+         <size>1 1</size>
+       <path>./default/_inc/wall.jpg</path>
+         <path>./_inc/wallpaper4/${system.theme}.jpg</path>
+         <zIndex>1</zIndex>
+</image>
+
+<image name="wallpaperheder" extra="true">
+         <visible>false</visible>
+         <pos>0 0</pos>
+         <size>1 1</size>
+		 <path>./default/_inc/wall.jpg</path>
+         <path>./_inc/wallpaper1/${system.theme}.jpg</path>
+		 <zIndex>1</zIndex>
+</image>
+
+==============    Modifiquei a moldura
+
+<image name="wallpaper3" extra="true">
+         <pos>0 0.2975</pos>
+         <size>1 0.623</size>
+         <path>./_inc/molduragamelistpastor/molduraazulmetalica75%.png</path>
+        <zIndex>2</zIndex>
+</image>
+ 
+	  	<image name="logotype1" extra="true">
+		<visible>false</visible>
+   	  </image>
+	  
+	  <image name="logotype2" extra="true">
+	  <visible>false</visible>
+		<pos>0 0</pos>
+		<Size>1 1</Size>
+		<color>ffffff</color>
+		<rotation>0</rotation>  
+		<path>./_inc/fade.png</path>
+		<zIndex>2</zIndex>
+	  </image>
+	  
+	  <helpsystem name="help">
+      <fontPath>./_inc/fonts/Digital-Serial-Bold.ttf</fontPath>
+      <fontSize>0.034</fontSize>
+      <pos>0 0.965</pos>    
+      <glowColor>000000</glowColor>
+	  <backgroundColor>000000</backgroundColor>
+      <color>ffffff</color>	  
+      <textColor>ffffff</textColor>
+      <iconColor>ffffff</iconColor>
+      </helpsystem>
+	  
+========== modifiquei a posicao das wheels	  
+	  
+	  <carousel name="systemcarousel">
+        <type>grid</type>
+        <pos>0 0.29</pos>
+        <size>1 1</size>
+        <zIndex>5000</zIndex>         
+        <logoScale>1.30</logoScale> 
+        <logoSize>0.25 0.25</logoSize>
+        <color>00000000</color>
+        <logoAlignment>center</logoAlignment>
+        <maxLogoCount>7</maxLogoCount>
+      </carousel>
+	  
+	  <image name="logo">
+    <path>./default/_inc/logo.png</path>
+   <path>./_inc/wheelretangularneon/${system.theme}.png</path>	
+   </image>
+
+<video name="backgroundvideo" extra="true">
+<visible>false</visible>
+</video>
+
+ <video name="backgroundvideo05" extra="true">
+<visible>false</visible>
+</video><video name="backgroundvideo" extra="true">
+<visible>false</visible>
+</video><video name="backgroundvideo" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo6" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo7" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo9" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo10" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo15" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo16" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo17" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo18" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo19" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo22" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo23" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo24" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo25" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo26" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo27" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo28" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo29" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo30" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo31" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo32" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo33" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo34" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo35" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo36" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo37" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo38" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo39" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo40" extra="true">
+<visible>false</visible>
+</video>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</view>
+
+</theme>

@@ -1,0 +1,268 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<text name="systemInfo">
+    <glowColor>000000</glowColor>
+    <pos>-0.210 0.240</pos>
+    <backgroundColor>00000000</backgroundColor>
+    <color>ffffff</color>
+    <rotation>0</rotation> 
+    <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+     <fontSize>0.030</fontSize>
+     <zIndex>999</zIndex>	     
+</text> 
+<video name="backgroundvideo" extra="true">
+<visible>false</visible>
+</video>
+
+<image name="wallpaper1" extra="true">
+         <pos>0.290 0</pos>
+        <visible>false</visible>
+         <size>0.710 0.710</size>
+        <path>./default/_inc/wall.jpg</path>
+         <path>./_inc/wallpaper4/${system.theme}.jpg</path>
+		<zIndex>3</zIndex>		 
+ </image>		 
+
+<image name="wallpaperheder" extra="true">
+         <pos>0.417 0.180</pos>
+         <size>0.585 0.585</size>
+         <path>./default/_inc/wall.jpg</path>
+         <path>./_inc/wallpaper4/${system.theme}.jpg</path>
+	     <zIndex>3</zIndex>		 
+ </image>	
+<!--	 
+	
+	
+<image name="wallpaper3" extra="true">
+         <pos>0 0</pos>
+<visible>true</visible>
+         <size>1 1</size>
+         <path>./_inc/brobous/L SOMBREADO.png</path>
+        <zIndex>4</zIndex>
+ </image>
+ -->
+ 
+ <image name="wallpaper4" extra="true">
+         <pos>0 0</pos>
+		 <visible>true</visible>
+         <size>1 1</size>
+         <path>./_inc/brobous/moldurabrobousroleta.png</path>
+        <zIndex>11</zIndex>
+ </image>
+ 
+ <image name="wallpaper5" extra="true">
+         <pos>0 0</pos>
+         <visible>false</visible>
+         <size>1 1</size>
+         <path>./_inc/EFEITOSBG/VIDROQUEBRADO.png</path>
+        <zIndex>20</zIndex>
+ </image>
+ 
+ <image name="wallpaper6" extra="true">
+         <pos>0 0</pos>
+         <visible>false</visible>
+         <size>1 1</size>
+         <path>./_inc/EFEITOSBG/PUZZLE.png</path>
+        <zIndex>20</zIndex>
+ </image>
+ 
+  
+ 	 <image name="wallpaper7" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+        <size>1 1</size>        
+        <path>./_inc/brobous/BG roleta esquerda preto.png</path>
+		<color>ffffff</color>
+        <zIndex>0</zIndex>          
+     </image> 
+
+
+
+ 
+ 
+ <video name="backgroundvideo" extra="true">
+<visible>true</visible>
+<path>{random}</path>   
+<rotation>0</rotation>  
+<pos>0.296 0.49</pos>
+<origin>0.5 0.5</origin>
+<maxSize>0.232 0.400</maxSize>
+<delay>1</delay>
+<showSnapshotNoVideo>false</showSnapshotNoVideo>
+<showSnapshotDelay>false</showSnapshotDelay>
+<color>FFFFFF</color>
+<zIndex>20</zIndex>
+</video>
+ 
+ 
+	  	<image name="logotype10" extra="true">
+		<visible>true</visible>
+		<pos>0.195 0.120</pos>
+		<maxSize>0.200 0.200</maxSize>
+		<color>ffffff</color>
+		<rotation>0</rotation>  
+		<path>./_inc/logosclean/${system.theme}.png</path>
+		<zIndex>998</zIndex>
+	  </image>
+	  
+	  <image name="logotype2" extra="true">
+	  <visible>false</visible>
+		<pos>0 0</pos>
+		<Size>1 1</Size>
+		<color>ffffff</color>
+		<rotation>0</rotation>  
+		<path>./_inc/fade.png</path>
+		<zIndex>2</zIndex>
+	  </image>
+	  
+	  <helpsystem name="help">
+       <fontPath>./_inc/fonts/Digital-Serial-Bold.ttf</fontPath>
+      <fontSize>0.034</fontSize>
+      <pos>0 0.965</pos>    
+      <glowColor>000000</glowColor>
+	  <backgroundColor>000000</backgroundColor>
+      <color>ffffff</color>	  
+      <textColor>ffffff</textColor>
+      <iconColor>ffffff</iconColor>
+      </helpsystem>
+	  
+<carousel name="systemcarousel">
+        <type>vertical_wheel</type>
+        <pos>0 0</pos>
+        <size>1 1</size>
+        <zIndex>41</zIndex>          
+        <logoSize>0.130 0.130</logoSize>
+        <color>00000000</color>
+		<logoRotation>4.5</logoRotation>
+		<logoRotationOrigin>-3.2 0.5</logoRotationOrigin>
+		<logoAlignment>left</logoAlignment>
+        <maxLogoCount>19</maxLogoCount>
+     </carousel>
+	  
+	  <image name="logo">
+    <path>./default/_inc/logo.png</path>
+   <path>./_inc/WHEELULTRAFINA/${system.theme}.png</path>	
+   </image>
+   
+    <video name="backgroundvideo05" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo6" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo7" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo9" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo10" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo15" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo16" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo17" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo18" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo19" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo22" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo23" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo24" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo26" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo25" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo27" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo28" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo29" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo30" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo31" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo32" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo33" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo34" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo35" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo36" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo37" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo38" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo39" extra="true">
+<visible>false</visible>
+</video>
+
+<video name="backgroundvideo40" extra="true">
+<visible>false</visible>
+</video>
+
+</view>
+
+</theme>
