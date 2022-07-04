@@ -194,7 +194,6 @@
         
    <subset name="Background" displayName="Backgrounds - Menu Principal">
    <include name="Menu - OFF" displayName="Menu - OFF">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ALEATÓRIO OFF.xml</include>  
-   <include name="Alekfull NF" displayName="Alekfull NF">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ALEKFULL NX.xml</include>
    <include name="Videogames" displayName="Videogames">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND VIDEOGAMES.xml</include>
    <include name="Videogames 2" displayName="Videogames 2">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND VIDEOGAMES 2.xml</include>
    <include name="Games" displayName="Games">./XMLS/BACKGROUND MENU-GAMELIST/BACKGROUND ARTES GAMES.xml</include>
