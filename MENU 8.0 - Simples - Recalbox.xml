@@ -14,69 +14,57 @@
      <zIndex>999</zIndex>	     
 </text> 
 
-<image name="wallpaper1" extra="true">
-         <pos>0 0</pos>
-         <size>1 1</size>
-		 <path>./default/_inc/wall.jpg</path>
-         <path>./_inc/wallpaper1/${system.theme}.jpg</path>
-		
-		 <zIndex>1</zIndex>
+<image name="wallpaperheder" extra="true">
+<visible>false</visible>
 </image>
 
-<image name="wallpaperheder" extra="true">
-         <visible>false</visible>
-		 <pos>0 0</pos>
-         <size>1 1</size>
-		 <path>./default/_inc/wall.jpg</path>
-         <path>./_inc/wallpaper1/${system.theme}.jpg</path>
-		 <zIndex>1</zIndex>
+<image name="wallpaper" extra="true">
+<visible>false</visible>
 </image>
- 
-	  	<image name="logotype1" extra="true">
-		<visible>false</visible>
-		<pos>0.0 0.0</pos>
-		<color>ffffff</color>
-		<rotation>0</rotation>  
-		<path>./_inc/logosclean/${system.theme}.png</path>
-		<zIndex>998</zIndex>
-	  </image>
+
+<image name="wallpaper1" extra="true">
+<pos>0 0</pos>
+<size>1 1</size>
+<path>./default/_inc/wall.jpg</path>
+<path>./_inc/wallpaper4/${system.theme}.jpg</path>
+<zIndex>1</zIndex>
+</image>
+
+  
+<helpsystem name="help">
+<fontSize>0.034</fontSize>
+<pos>0 0.965</pos>    
+<glowColor>000000</glowColor>
+<backgroundColor>000000</backgroundColor>
+<color>ffffff</color>	  
+<textColor>ffffff</textColor>
+<iconColor>ffffff</iconColor>
+</helpsystem>
 	  
-	  <image name="logotype2" extra="true">
-	  <visible>false</visible>
-		<pos>0 0</pos>
-		<Size>1 1</Size>
-		<color>ffffff</color>
-		<rotation>0</rotation>  
-		<path>./_inc/fade.png</path>
-		<zIndex>2</zIndex>
-	  </image>
+<carousel name="systemcarousel">
+<type>gamecarousel</type>
+<pos>0 0.399999</pos>
+<size>1 0.2</size>
+<zIndex>5000</zIndex>   
+<backgroundColor>000000ff</backgroundColor>		
+<logoSize>0.30 0.12</logoSize>
+<logoAlignment>center</logoAlignment>
+<maxLogoCount>3</maxLogoCount>
+<zIndex>1000</zIndex>
+</carousel>
 	  
-	  <helpsystem name="help">
-      <fontPath>./_inc/fonts/Digital-Serial-Bold.ttf</fontPath>
-      <fontSize>0.034</fontSize>
-      <pos>0 0.965</pos>    
-      <glowColor>000000</glowColor>
-	  <backgroundColor>000000</backgroundColor>
-      <color>ffffff</color>	  
-      <textColor>ffffff</textColor>
-      <iconColor>ffffff</iconColor>
-      </helpsystem>
+<image name="logo">
+<path>./default/_inc/logo.png</path>
+<path>./_inc/logosclean/${system.theme}.png</path>	
+</image>
 	  
-	  <carousel name="systemcarousel">
-        <type>gamecarousel</type>
-        <pos>0 0.399999</pos>
-        <size>1 0.2</size>
-        <zIndex>5000</zIndex>   
-        <backgroundColor>000000ff</backgroundColor>		
-        <logoSize>0.30 0.12</logoSize>
-        <logoAlignment>center</logoAlignment>
-        <maxLogoCount>3</maxLogoCount>
-      </carousel>
-	  
-	  <image name="logo">
-    <path>./default/_inc/logo.png</path>
-   <path>./_inc/logosclean/${system.theme}.png</path>	
-   </image>
+<!--<video name="backgroundvideo8" extra="true">
+<pos>0 0</pos>
+<size>1 1</size>
+<path>{random}</path>
+<zIndex>1<zIndex>
+<delay>1</delay>
+</video>-->
 
 <video name="backgroundvideo" extra="true">
 <visible>false</visible>
