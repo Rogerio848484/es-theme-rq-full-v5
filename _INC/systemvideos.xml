@@ -1,0 +1,32 @@
+z
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>7</formatVersion>
+   
+ <view name="system">
+	
+	  <image name="background3" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./_inc/fondomenu.png</path>
+		<color>101010</color>
+         <zIndex>10</zIndex>          
+      </image>  
+		
+
+	 <video name="bg-video" extra="static">
+	  <path>./_inc/videos/${system.theme}.mp4</path>
+	  <pos>0 0</pos>
+	  <size>1 1</size>
+      <origin>0 0</origin>
+      <delay>0.6</delay>
+	  <effect>none</effect>
+	  <zIndex>700</zIndex>
+    </video>
+</view> 
+   
+  
+   
+
+</theme>
