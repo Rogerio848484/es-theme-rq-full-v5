@@ -1,0 +1,25 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info12" extra="true">
+			<text>PopCap Games, Inc. é uma desenvolvedora norte-americana e publicadora de jogos, baseada em Seattle, Washington, Estados Unidos. A empresa foi fundada em 2000 por John Vechey, Brian Fiete e Jason Kapalka. Emprega atualmente mais de 180 pessoas. A maioria dos jogos da PopCap Games são disponibilizados por um preço relativamente baixo, nos consoles de videogame e nos computadores a partir das plataformas Steam e/ou Origin. A empresa já passou da marca de 1 bilhão de downloads, e seu título principal, Bejeweled, já vendeu 25 milhões de cópias e foi baixado mais de 150 milhões de vezes.[1] Os jogos da PopCap Games são disponibilizados nas plataformas Web, PC, Mac, Xbox, Xbox 360, Xbox One, Zeebo, celulares, PDAS e outros dispositivos móveis. A empresa foi comprada pela Electronic Arts (abreviada como EA) em julho de 2011, por US$750 milhões (sendo US$650 milhões em dinheiro e os outros U$100 milhões em ações).[2] </text>
+                    <pos>0.01 0.12</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

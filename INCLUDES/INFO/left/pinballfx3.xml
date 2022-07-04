@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>O Pinball FX 3 permite que os jogadores joguem uma das várias mesas simuladas de pinball e inclui suporte para placar online para competição informal com outros jogadores. O objetivo do jogo é fornecer uma experiência multiplayer mais envolvente do que os títulos anteriores; o jogo fornecerá suporte para opções multijogador competitivas assíncronas e estilo de torneio. Haverá tabelas de classificação compartilhadas e opções multiplayer entre as plataformas.</text>
+                    <pos>0.01 -0.085</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

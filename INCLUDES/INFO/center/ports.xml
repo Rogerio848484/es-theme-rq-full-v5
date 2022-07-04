@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>Sistema de Ports, também chamado de Ports, é um avançado esquema de instalação de aplicativos no sistema operacional FreeBSD. Quando uma aplicação é instalada, muito pouca intervenção do usuário, senão nenhuma, é necessária. Na maioria dos casos a aplicação é automaticamente baixada da Internet, adaptada e configurada, se necessário, compilada, instalada e registrada na base de registro de pacotes. Quaisquer dependências de outras aplicações ou bibliotecas que um port possua são também instaladas para o usuário. Cada port, ou pacote de software, é mantido por um "mantenedor de port", o "port maintainer", uma pessoa que é responsável por manter o port atualizado em relação ao desenvolvimento do software original. Qualquer um é bem-vindo a se tornar um mantenedor de port pela contribuição com seu software favorito à coleção. Uma pessoa pode também escolher um port que não possui mais um mantenedor e adotá-lo.</text>
+                    <pos>0.50 0.10</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

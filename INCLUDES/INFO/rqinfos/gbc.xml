@@ -1,0 +1,155 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info12" extra="true">
+			<text>O Game Boy Color é um videogame portátil, fabricado pela Nintendo. É o sucessor do Game Boy original e faz parte da família Game Boy.</text>
+                    <pos>0.01 0.03</pos>
+                   <size>0.29 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		<text name="info13" extra="true">
+			<text>Year of Release : 1998</text>
+                  <pos>0.01 0.127</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info14" extra="true">
+                   <pos>0.01 0.165</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	<text>Manufacturer : Nintendo</text>
+	</text>
+                  <text name="info15" extra="true">
+			<text>Type : Portable</text>
+                   <pos>0.01 0.205</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info16" extra="true">
+			<text>Units sold : 119 million</text>
+                   <pos>0.01 0.245</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info17" extra="true">
+			<text>Best-selling game : Pokémon Gold e Silver</text>
+                  <pos>0.01 0.285</pos>
+                   <size>0.29 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info18" extra="true">
+			<text>CPU : Núcleo Sharp LR35902 @8,38 MHz</text>
+                   <pos>0.01 0.325</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info19" extra="true">
+			<text>GPU : TFT LCD 160 x 144</text>
+                   <pos>0.01 0.365</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info20" extra="true">
+			<text>RAM : 32 KB</text>
+
+                   <pos>0.01 0.405</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+				<text name="info21" extra="true">
+			<text>Resolution : 2,3 polegadas</text>
+                   <pos>0.01 0.445</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info22" extra="true">
+			<text>Midia : Cartucho</text>
+                   <pos>0.01 0.485</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		
+	</view>
+		
+		
+</theme>

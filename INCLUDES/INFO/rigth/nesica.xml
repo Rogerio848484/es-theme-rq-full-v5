@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>NESiCAxLive é um sistema de distribuição digital para videogames de fliperama feito pela Taito Corporation . É semelhante ao sistema de distribuição de jogos SEGA ALL.Net. A Taito usa o NESiCAxLive para distribuir não apenas seus próprios jogos, mas também permite que outras empresas o utilizem como plataforma de publicação. Em sua introdução, a SNK Playmore , Cave e Arc System Works concordaram em distribuir jogos no NESiCAxLive. Atualmente 8 jogos são operados isoladamente em títulos e 29 títulos como títulos para download. O sistema foi revelado pela primeira vez em setembro de 2010 no 48º diversões Máquina Mostrar em Chiba, no Japão, como a Taito Vewlix NESiCA gabinete de arcade , e foi lançado em 9 de Dezembro de 2010. O primeiro jogo a ser lançado para o sistema foi Arc System Works ' BlazBlue : Continuum Shift II . Taito introduziu o sistema NESiCAxLive 2 em junho de 2017.</text>
+                    <pos>0.71 0.37</pos>
+                   <size>0.29 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

@@ -1,0 +1,144 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>O 3DO consiste em especificações técnicas criadas pela "3DO Company", que é uma sociedade entre 7 diferentes empresas.</text>
+                    <pos>0.01 0.03</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		<text name="info2" extra="true">
+			<text>Year of Release : 1993</text>
+                  <pos>0.01 0.127</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info3" extra="true">
+                   <pos>0.01 0.165</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	<text>Manufacturer : Panasonic</text>
+	</text>
+                  <text name="info4" extra="true">
+			<text>Type : Console</text>
+                   <pos>0.01 0.205</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info5" extra="true">
+			<text>Units sold : 2 million</text>
+                   <pos>0.01 0.245</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info6" extra="true">
+			<text>Best-selling game : Gex</text>
+                  <pos>0.01 0.285</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info7" extra="true">
+			<text>CPU :   Intel 80386 ARM60</text>
+                   <pos>0.01 0.325</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info8" extra="true">
+			<text>GPU : 32Bits</text>
+                   <pos>0.01 0.365</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info9" extra="true">
+			<text>RAM : 2MB</text>
+
+                   <pos>0.01 0.405</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+				<text name="info10" extra="true">
+			<text>Resolution : 	800*608</text>
+                   <pos>0.01 0.445</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info11" extra="true">
+			<text>Midia : CD-ROM</text>
+                   <pos>0.01 0.485</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		
+	</view>
+		
+		
+</theme>

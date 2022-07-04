@@ -1,0 +1,25 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info12" extra="true">
+			<text>Futuro Pinball é um Sistema de Desenvolvimento de Pinball em tempo real. Ele permite que você projete e jogue sua própria simulação de pinball em 3D em tempo real verdadeiro. Ele usa Física Avançada para fornecer a melhor simulação possível de uma verdadeira máquina de pinball. As tabelas são construídas com componentes padrão (plásticos, estacas, pára-choques, luzes etc.) que são colocados no campo de jogo através do Editor. Objetos como Superfícies, Luzes e Borrachas podem ser modelados no editor e gerados em tempo real quando a mesa é jogada.</text>
+                    <pos>0.01 -0.045</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

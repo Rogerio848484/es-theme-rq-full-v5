@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>O FB Alpha , também conhecido por FinalBurn Alpha ou simplesmente FBA, é um emulador de código aberto das placas Capcom modelos CPS-1, 2 e 3, além de outras placas de arcade como a do SNK Neo-Geo, Toaplan, Cave e várias outras. As últimas versões do emulador trazem ainda a possibilidade de emular os consoles Mega Drive e Super NES, ainda em aperfeiçoamento mas com jogabilidade satisfatória. O sucesso do emulador fez com que houvesse a criação de ports para o XBox 360 e PlayStation 3, sob o nome de FBANext. O projeto partiu do extinto emulador FinalBurn desenvolvido por Dave, um programador que o publicou no dia 31 de agosto do ano 2000. O emulador, a princípio, servia apenas para o jogo AfterBurner, mas logo recebeu outros ports de clássicos da Sega, como o Rail Chase e o Galaxy Force 2.</text>
+                    <pos>0.50 .04</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

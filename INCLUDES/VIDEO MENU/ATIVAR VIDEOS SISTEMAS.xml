@@ -1,0 +1,124 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<video name="backgroundvideo05,backgroundvideo" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo6" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo7" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo9" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo10" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo15" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo16" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo17" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo18" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo19" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo22" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo23" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo24" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo25" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo26" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo27" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo28" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo29" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo30" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo31" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo32" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo33" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo34" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo35" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo36" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo37" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo38" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo39" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
+<video name="backgroundvideo40" extra="true">
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+ 
+</view>
+
+</theme>

@@ -1,0 +1,144 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>O Sega 32X nasceu como um dos projetos da Sega para ultrapassar o Super Nintendo tecnologicamente, e seu codinome durante o desenvolvimento era Project Mars.</text>
+                    <pos>0.50 0.03</pos>
+                   <size>0.30 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		<text name="info2" extra="true">
+			<text>Year of Release : 1994</text>
+                  <pos>0.50 0.127</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info3" extra="true">
+                   <pos>0.50 0.165</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	<text>Manufacturer : Sega</text>
+	</text>
+                  <text name="info4" extra="true">
+			<text>Type : Console</text>
+                   <pos>0.50 0.205</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info5" extra="true">
+			<text>Units sold : 0,600 million</text>
+                   <pos>0.50 0.245</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info6" extra="true">
+			<text>Best-selling game : Night Trap</text>
+                  <pos>0.50 0.285</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info7" extra="true">
+			<text>CPU : 2x SH-2 - 32-bit RISC</text>
+                   <pos>0.50 0.325</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info8" extra="true">
+			<text>GPU : 32-bit RISC</text>
+                   <pos>0.50 0.365</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info9" extra="true">
+			<text>RAM : 4MB</text>
+
+                   <pos>0.50 0.405</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+				<text name="info10" extra="true">
+			<text>Resolution : 320×224, 320×240, 320×204</text>
+                   <pos>0.50 0.445</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info11" extra="true">
+			<text>Midia : Cartucho</text>
+                   <pos>0.50 0.485</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		
+	</view>
+		
+		
+</theme>

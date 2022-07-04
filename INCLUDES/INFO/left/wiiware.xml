@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>WiiWare é um antigo serviço da antiga loja virtual Wii Shop Channel, de distribuição de jogos eletrônicos digitais exclusivos para o console Nintendo Wii, da produtora japonesa Nintendo, criado em dezembro de 2006 e encerrado em janeiro de 2019. WiiWare faz companhia ao Virtual Console, o qual é especializado em emulação de jogos retrô de outros sistemas, enquanto no WiiWare os jogos são novos e originais produzidos especificamente para o Wii. O kit de desenvolvimento custou cerca de US$ 2 mil e, os desenvolvedores precisavam ser licenciados e aprovados pela Nintendo. De acordo com a Nintendo.</text>
+                    <pos>0.01 -0.03</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

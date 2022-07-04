@@ -1,0 +1,144 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>O Nintendo GameCube é um console de videogame doméstico lançado pela Nintendo no Japão e na América do Norte em 2001 e Europa e Austrália em 2002.</text>
+                    <pos>0.50 0.03</pos>
+                   <size>0.29 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		<text name="info2" extra="true">
+			<text>Year of Release : 2001</text>
+                  <pos>0.50 0.127</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info3" extra="true">
+                   <pos>0.50 0.165</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	<text>Manufacturer : Nintendo</text>
+	</text>
+                  <text name="info4" extra="true">
+			<text>Type : Console</text>
+                   <pos>0.50 0.205</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info5" extra="true">
+			<text>Units sold : 22 million</text>
+                   <pos>0.50 0.245</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info6" extra="true">
+			<text>Best-selling game : Super Smash Bros.</text>
+                  <pos>0.50 0.285</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info7" extra="true">
+			<text>CPU : 485 MHz PowerPC 750CXe</text>
+                   <pos>0.50 0.325</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info8" extra="true">
+			<text>GPU : Flipper @ 162 MHz</text>
+                   <pos>0.50 0.365</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info9" extra="true">
+			<text>RAM : 24 MB</text>
+
+                   <pos>0.50 0.405</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+				<text name="info10" extra="true">
+			<text>Resolution :  640x480</text>
+                   <pos>0.50 0.445</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info11" extra="true">
+			<text>Midia : Disco óptico da Nintendo</text>
+                   <pos>0.50 0.485</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		
+	</view>
+		
+		
+</theme>

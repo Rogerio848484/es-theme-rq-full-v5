@@ -1,0 +1,12 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<video name="backgroundvideo" extra="true">
+<effect>false</effect>
+</video>
+
+</view>
+
+</theme>

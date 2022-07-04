@@ -1,0 +1,25 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info12" extra="true">
+			<text>ScummVM é um programa que permite que você execute certos jogos clássicos de aventura gráfica e RPG, desde que você já tenha seus arquivos de dados. A parte inteligente sobre isso: ScummVM apenas substitui os executáveis ​​enviados com os jogos, permitindo que você os jogue em sistemas para os quais eles nunca foram projetados! ScummVM é uma reescrita completa dos executáveis ​​desses jogos e não é um emulador. ScummVM suporta uma enorme biblioteca de aventuras com mais de 250 jogos no total. Ele suporta muitos clássicos publicados por estúdios lendários como LucasArts , Sierra On-Line , Revolution Software , Cyan, Inc. e Westwood Studios . Ao lado de títulos inovadores como a série Monkey Island , Broken Sword , Myst , Blade Runner e incontáveis ​​outros jogos, você encontrará algumas aventuras realmente obscuras e joias realmente escondidas para explorar.</text>
+                    <pos>0.01 0.10</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

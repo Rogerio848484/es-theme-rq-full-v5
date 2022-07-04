@@ -1,0 +1,162 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Wii U é um console de videogames doméstico desenvolvido pela Nintendo como sucessor do Wii. O Wii U é o primeiro console da Nintendo a suportar gráficos HD.</text>
+                    <pos>0.50 .065</pos>
+                   <size>0.25 0.14</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+
+				
+		<text name="info2" extra="true">
+			<text>Year of Release : 2012</text>
+                   <pos>0.50 .166</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                    <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>Manufacturer : Nintendo</text>
+                   <pos>0.50 .206</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                   <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>	
+<text name="info4" extra="true">
+			<text>Type: Console</text>
+                   <pos>0.50 .246</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>	
+<text name="info5" extra="true">
+			<text>Units sold : 14 million</text>
+                   <pos>0.50 .286</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>	
+<text name="info6" extra="true">
+			<text>Best-selling game : Mario Kart 8</text>
+                   <pos>0.50 .326</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+<text name="info7" extra="true">
+	<text>CPU: IBM Power 3 Núcleos 1.24GHz</text>
+                   <pos>0.50 .366</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>	
+<text name="info8" extra="true">
+	<text>GPU : AMD Radeon HD Latte</text>
+                   <pos>0.50 .406</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+<text name="info9" extra="true">
+	<text>RAM : 2 GB</text>
+                   <pos>0.50 .446</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>	
+<text name="info10" extra="true">
+	<text>Resolution : 1080p</text>
+                   <pos>0.50 .486</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>			
+<text name="info11" extra="true">
+	<text>Midia : Discos ópticos Wii U</text>
+                   <pos>0.50 .526</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                    <color>FFFFFF</color>
+                    <glowColor>000000</glowColor>
+                   <backgroundColor>00000000</backgroundColor>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                    <glowColor>00000016</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>												
+	</view>
+</theme>

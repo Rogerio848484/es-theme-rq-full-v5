@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>Mugen é um motor de jogo de luta 2D freeware projetado pela Elecbyte. O conteúdo é criado pela comunidade, e milhares de lutadores, tanto originais quanto de ficção popular, foram criados. Ele foi escrito em C e originalmente usava a biblioteca Allegro . As versões mais recentes do mecanismo usam a biblioteca SDL . Os usuários que desenvolvem conteúdo para o mecanismo de jogo são comumente chamados de autores. Esses autores criam conteúdo personalizado, como personagens, cenários e pacotes de telas / skins. Frequentemente, os autores portam personagens populares de mecanismos de luta 2D, como a série Street Fighter , ou da TV, livros e séries de jogos, como Teenage Mutant Ninja Turtles , Os Simpsons , Pingu , Super Mario , Sonic The Hedgehog , Pokémon , Dragon Ball , Sailor Moon e Touhou . </text>
+                    <pos>0.50 -0.08</pos>
+                   <size>0.29 0.99</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

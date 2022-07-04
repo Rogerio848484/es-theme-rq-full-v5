@@ -1,0 +1,144 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>O Xbox é um console de videogame doméstico e o primeiro título da série Xbox de consoles de videogame fabricados pela Microsoft.</text>
+                    <pos>0.01 0.03</pos>
+                   <size>0.29 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		<text name="info2" extra="true">
+			<text>Year of Release : 2002</text>
+                  <pos>0.01 0.127</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info3" extra="true">
+                   <pos>0.01 0.165</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	<text>Manufacturer : Microsoft</text>
+	</text>
+                  <text name="info4" extra="true">
+			<text>Type : Console</text>
+                   <pos>0.01 0.205</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info5" extra="true">
+			<text>Units sold : 25 million</text>
+                   <pos>0.01 0.245</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+	</text>
+		<text name="info6" extra="true">
+			<text>Best-selling game : Halo 2</text>
+                  <pos>0.01 0.285</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info7" extra="true">
+			<text>CPU : Pentium III com clock de 733 MHz</text>
+                   <pos>0.01 0.325</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info8" extra="true">
+			<text>GPU : Nvidia NV2A com clock de 233 MHz</text>
+                   <pos>0.01 0.365</pos>
+                   <size>0.40 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info9" extra="true">
+			<text>RAM : 64 MB</text>
+
+                   <pos>0.01 0.405</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+				<text name="info10" extra="true">
+			<text>Resolution : 256x224 to 1920x1080</text>
+                   <pos>0.01 0.445</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		<text name="info11" extra="true">
+			<text>Midia : DVD</text>
+                   <pos>0.01 0.485</pos>
+                   <size>0.25 0.17</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+		</text>
+		
+	</view>
+		
+		
+</theme>

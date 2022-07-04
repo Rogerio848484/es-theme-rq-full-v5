@@ -1,0 +1,23 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+<text name="systemInfo">
+<glowColor>000000</glowColor>
+</text> 
+
+<helpsystem name="help">
+<glowColor>000000</glowColor>
+</helpsystem>
+
+</view>
+
+<view name="screen">
+<text name="clock">
+<glowColor>000000</glowColor>
+</text> 
+
+</view>
+
+</theme>

@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>Pinball FX 2 foi desenvolvido pela Zen Studios e publicado pela Microsoft Studios . Foi lançado em 27 de outubro de 2010 através do serviço Xbox Live Arcade . O jogo inclui vários novos recursos, como o modo multijogador local e a capacidade de ajustar as configurações da mesa. Os jogadores também podem importar todas as mesas do Pinball FX que eles haviam comprado anteriormente. A versão do Pinball FX 2 para Windows 8 foi lançada na Windows Store em 27 de outubro de 2012, dois anos após o lançamento original do XBLA. </text>
+                    <pos>0.71 -0.065</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

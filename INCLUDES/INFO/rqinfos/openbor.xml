@@ -1,0 +1,25 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info12" extra="true">
+			<text>OpenBOR (Open Beats of Rage) é uma continuação de código aberto do motor Beats of Rage. Embora Beats of Rage pretendesse ser um jogo autônomo, o design modular dos elementos e do motor do jogo significava que os usuários finais eram capazes de substituir ativos por criações próprias (geralmente chamadas de mods). Por exemplo, é possível trocar o personagem Kula Gem por outro personagem de King of Fighters, como Terry Bogard. Com um pouco de trabalho, o motor permitiu a criação de jogos totalmente novos. Vendo o potencial em tal aplicativo, o desenvolvedor kirby2000 obteve o código fonte e a permissão de licença do Senile Team para continuar o desenvolvimento. O novo projeto foi renomeado para OpenBOR.</text>
+                    <pos>0.71 0.01</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                    <color>FFFFFF</color>
+                   <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>

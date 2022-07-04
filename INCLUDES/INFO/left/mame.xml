@@ -1,0 +1,24 @@
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+                   <text name="info1" extra="true">
+			<text>MAME significa Multiple Arcade Machine Emulator - Emulador de Múltiplas Máquinas de Arcade, em português. Quando usado em conjunto com arquivos de dados de um jogo (ROMs), o MAME irá reproduzir, mais ou menos fielmente, o jogo em um PC. O MAME pode emular mais de 8.000 jogos clássicos dos arcades dos anos 70, 80, 90 e 2000. As imagens de ROM que o MAME utiliza são "descarregadas" de chips de ROM das placas de circuito impresso dos jogos. O MAME então se torna o hardware para os jogos, tomando o lugar de suas CPUs e chips de suporte originais. . Isso, segundo ele, evita que o emulador concorra diretamente com as empresas desenvolvedoras dos jogos (uma vez que os jogos são fáceis de se conseguir na Internet).</text>
+                    <pos>0.01 0.03</pos>
+                   <size>0.29 0.70</size>
+                   <fontSize>0.025</fontSize>
+                  <backgroundColor>00000000</backgroundColor>
+                   
+                  <glowColor>000000</glowColor>
+                   <zIndex>2000</zIndex>
+                    <glowSize>1</glowSize>
+                    <alignment>left</alignment>
+</text>
+	
+		
+		
+	</view>
+		
+		
+</theme>
