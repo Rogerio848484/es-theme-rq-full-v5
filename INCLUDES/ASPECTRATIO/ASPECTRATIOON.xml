@@ -25,6 +25,10 @@
 <maxSize>1 1</maxSize>
 </video>
 
+<video name="backgroundvideo8" extra="true">
+<maxSize>1 1</maxSize>
+</video>
+
 <video name="backgroundvideo9" extra="true">
 <maxSize>0.2965 0.34</maxSize>
 </video>

@@ -31,6 +31,7 @@
    <include name="MENU 6.0 - Vewlix Direita" displayName="MENU 6.0 - Vewlix Direita">./MENU 6.0 - Vewlix Direita.xml</include> 
    <include name="MENU 7.0 - 1 Wheel Horizontal Inferior / Full Video" displayName="MENU 7.0 - 1 Wheel Horizontal Inferior / Full Video">./MENU 7.0 - 1 Wheel Horizontal Inferior  Full Video.xml</include>
    <include name="MENU 8.0 - Simples - Recalbox" displayName="MENU 8.0 - Simples - Recalbox">./MENU 8.0 - Simples - Recalbox.xml</include>
+   <include name="MENU 8.1 - Simples - Video Fundo" displayName="MENU 8.1 - Simples - Video Fundo">./MENU 8.1 - Simples - Video Fundo.xml</include>
    <include name="MENU 9.0 - Cine Pastor" displayName="MENU 9.0 - Cine Pastor">./MENU 9.0 - Cine Pastor.xml</include>
    <include name="MENU 10.0 - RQ INFOS C/FADE" displayName="MENU 10.0 - RQ INFOS C/FADE">./MENU 10.0 - RQ INFOS CFADE.xml</include>
    <include name="MENU 10.1 - RQ INFOS S/FADE" displayName="MENU 10.1 - RQ INFOS S/FADE">./MENU 10.1 - RQ INFOS SFADE.xml</include>
