@@ -5,37 +5,37 @@
 
 <view name="system">
       <carousel name="systemcarousel">
-	  <scrollSound>./XMLS/SOUND/tone.wav</scrollSound>
+	  <scrollSound>./INCLUDES/SOUND/tone.wav</scrollSound>
       </carousel>    
 </view> 
 
 <view name="basic">
       <textlist name="gamelist">
-	  <scrollSound>./XMLS/SOUND/tone.wav</scrollSound>
+	  <scrollSound>./INCLUDES/SOUND/tone.wav</scrollSound>
       </textlist>
 </view> 
 
 <view name="detailed">
        <textlist name="gamelist">
-	   <scrollSound>./XMLS/SOUND/tone.wav</scrollSound>
+	   <scrollSound>./INCLUDES/SOUND/tone.wav</scrollSound>
        </textlist>
 </view> 
      
 <view name="video">
        <textlist name="gamelist">
-	   <scrollSound>./XMLS/SOUND/tone.wav</scrollSound>
+	   <scrollSound>./INCLUDES/SOUND/tone.wav</scrollSound>
        </textlist>
  </view> 
  
 <view name="grid">
  	  <imagegrid name="gamegrid">
-	  <scrollSound>./XMLS/SOUND/tone.wav</scrollSound>      		
+	  <scrollSound>./INCLUDES/SOUND/tone.wav</scrollSound>      		
       </imagegrid> 
 </view>
 
 <view name="gamecarousel">
       <gamecarousel name="gamecarousel">
-      <scrollSound>./XMLS/SOUND/tone.wav</scrollSound>  
+      <scrollSound>./INCLUDES/SOUND/tone.wav</scrollSound>  
       </gamecarousel> 
 </view>
 
