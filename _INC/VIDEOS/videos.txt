@@ -1,0 +1,17 @@
+Espanol
+Los videos de cada sistema descargar del enlace, y copiarlos en la carpeta videos.
+
+Ingles
+The videos from each system download from the link, and copy them into the videos folder.
+
+Portugues
+Os vídeos de cada sistema são baixados do link, e copiados para a pasta de vídeos.
+
+Frances
+Les vidéos de chaque système sont téléchargées à partir du lien, et copiées dans le dossier des vidéos.
+
+Italiano
+I video di ogni sistema vengono scaricati dal link e copiati nella cartella video.
+
+Lehcim CramTrebor
+https://drive.google.com/drive/folders/15U4VTXYehgOrojvYmE7QweGFoxLTVSdx
