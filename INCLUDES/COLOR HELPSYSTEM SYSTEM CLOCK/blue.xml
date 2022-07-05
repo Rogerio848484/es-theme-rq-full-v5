@@ -19,7 +19,7 @@
 	<view name="video"> 
 	
     <textlist name="gamelist">
-	<selectorImagePath>./XMLS/BARRALISTA/barraazulclaro.png</selectorImagePath>
+	<selectorImagePath>./INCLUDES/BARRALISTA/barraazulclaro.png</selectorImagePath>
 	</textlist>
 		
 	<text name="md_lbl_developer">
