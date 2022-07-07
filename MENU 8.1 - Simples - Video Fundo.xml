@@ -57,10 +57,10 @@
 <path>./_inc/coinops/sky1.png</path>	
 <pos>0.5 0.5</pos>
 <origin>0.5 0.5</origin>
-<size>1 0.5</size>
+<size>1.5 0.5</size>
 <storyboard>
 <animation property="opacity" from="1" to="0.7" begin="0" duration="1000" mode="linear"/>
-<animation property="scale" from="1.5" to="1" begin="0" duration="8000" autoreverse="true" repeat="forever" mode="linear"/>
+<animation property="scale" from="1.5" to="1" begin="0" duration="9000" autoreverse="true" repeat="forever" mode="linear"/>
 </storyboard>
 <pos>0.5 0.5</pos>
 <zIndex>3</zIndex>
@@ -73,7 +73,7 @@
 <size>1 0.5</size>
 <storyboard>
 <animation property="opacity" from="1" to="0.7" begin="0" duration="1000" mode="linear"/>
-<animation property="scale" from="1" to="1.5" begin="0" duration="8000" autoreverse="true" repeat="forever" mode="linear"/>
+<animation property="scale" from="1" to="1.5" begin="0" duration="9000" autoreverse="true" repeat="forever" mode="linear"/>
 </storyboard>
 <pos>0.5 0.5</pos>
 <zIndex>4</zIndex>

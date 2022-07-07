@@ -258,7 +258,7 @@
 		<image name="md_favorite">
 			     <visible>false</visible> 
 		</image>
-		<image name="md_flag">
+		<image name="md_flag,md_publisher">
 			<visible>false</visible> 
 		</image>
 		
