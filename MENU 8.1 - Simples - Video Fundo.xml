@@ -21,6 +21,7 @@
 <image name="wallpaper1" extra="true">
 <visible>true</visible>
 <path>./_inc/wallpaper4/${system.theme}.jpg</path>
+<size>1 1</size>
 </image>
 
 <image name="wallpaper" extra="true">
