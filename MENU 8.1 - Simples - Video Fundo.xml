@@ -94,7 +94,7 @@
 <showSnapshotNoVideo>false</showSnapshotNoVideo>
 <showSnapshotDelay>false</showSnapshotDelay>
 <color>FFFFFF</color>
-<zIndex>2</zIndex>
+<zIndex>14</zIndex>
 </video>
 
 <video name="backgroundvideo" extra="true">
