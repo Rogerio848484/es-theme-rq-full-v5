@@ -12,7 +12,7 @@
 </feature>
 
 <!---------------------------variable------------------------------------- -->
-        
+      
    <subset name="Menu" displayName="Opções de Menu">
    <include name="MENU 1.0 - 7 Wheel Horizontal Inferior" displayName="MENU 1.0 - 7 Wheel Horizontal Inferior">./MENU 1.0 - 7 Wheel Horizontal Inferior.xml</include>
    <include name="MENU 1.1 - 7 Wheel Horizontal Inferior C/ Cinturão Largo" displayName="MENU 1.1 - 7 Wheel Horizontal Inferior C/ Cinturão Largo">./MENU 1.1 - 7 Wheel Horizontal Inferior C Cinturao Largo.xml</include>
@@ -224,9 +224,6 @@
    <include name="originalWallpaper" displayName="Original"/>
    </subset>	
 
-
-	
-		
 <!---------------------------screen------------------------------------- -->
 
 <view name="screen">
