@@ -20,7 +20,7 @@
 <rotation>0</rotation>  
 <pos>0.500 0.500</pos>
 <origin>0.5 0.5</origin>
-<size>1 1<size>
+<size>1 1</size>
 <delay>2</delay>
 <efect>true</efect>
 <showSnapshotNoVideo>true</showSnapshotNoVideo>
