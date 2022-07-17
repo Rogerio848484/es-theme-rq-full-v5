@@ -21,10 +21,6 @@
 <origin>0.5 0.5</origin>
 </video>
 
-<video name="backgroundvideo7" extra="true">
-<maxSize>1 1</maxSize>
-</video>
-
 <video name="backgroundvideo8" extra="true">
 <maxSize>1 1</maxSize>
 </video>
