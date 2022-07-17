@@ -256,6 +256,11 @@
 <visible>false</visible>
 </video>
 
+<video name="backgroundvideo8" extra="true">
+<visible>false</visible>
+<path>./_inc/videos/${system.theme}.mp4</path>
+</video>
+
 <video name="backgroundvideo9" extra="true">
 <visible>false</visible>
 </video>
