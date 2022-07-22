@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+
+<customView name="Gamelist Video + Marquee" inherits="gamecarousel">
+
+<gamecarousel name="gamecarousel">
+<zIndex>999</zIndex>	      
+<type>vertical_wheel</type>
+<pos>0.36 0</pos>
+<size>1 1</size>
+<logoScale>1.2</logoScale>
+<logoSize>0.125 0.250</logoSize>
+<color>00000000</color>
+<maxLogoCount>13</maxLogoCount>
+<logoRotation>-14</logoRotation>
+<logoRotationOrigin>2.50 0.5</logoRotationOrigin>
+<logoAlignment>center</logoAlignment>   
+<imageSource>marquee</imageSource>
+</gamecarousel> 
+
+<image name="wallpaper1">
+<pos>0.5 0.5</pos>
+<origin>0.5 0.5</origin>
+<size>1 1</size>
+<path>./_inc/WALLPAPER1/${system.theme}.png</path>
+<zIndex>1</zIndex> 
+</image>
+
+<helpsystem name="help">
+<pos>0 0.965</pos>    
+</helpsystem>
+		
+<image name="pointer1" extra="true">
+<pos>0.97 0.50</pos>
+<origin>0.5 0.5</origin>
+<size>0.055 0.155</size>
+<color>ffffffA6</color>
+<path>./_INC/POINTER DIREITA/default.png</path>
+<path>./_INC/POINTER DIREITA/${system.theme}.png</path>
+<zIndex>999</zIndex> 
+</image>
+
+<image name="logo">
+<pos>0.5 0.1</pos>
+<origin>0.5 0.5</origin>
+<maxSize>0.25 0.25</maxSize>
+<path>./_inc/logosclean/${system.theme}.png</path>
+<zIndex>999</zIndex> 
+</image>
+
+<video name="md_video">
+<pos>0.5 0.5</pos>
+<size>1 1</size>
+<origin>0.5 0.5</origin>
+<delay>1</delay>
+<showSnapshotNoVideo>false</showSnapshotNoVideo>
+<showSnapshotDelay>false</showSnapshotDelay>
+<zIndex>2</zIndex>
+</video>
+
+<image name="md_image">
+<visible>false</visible> 
+ </image>
+
+<image name="md_fanart">
+<visible>false</visible> 
+ </image>
+
+<image name="md_thumbnail">
+ <visible>false</visible> 
+ </image>
+		
+<image name="md_marquee">
+<visible>false</visible> 
+ </image>
+
+ <rating name="md_rating">
+ <visible>false</visible> 
+ </rating>
+		
+  <image name="sombra" extra="true">
+    <visible>true</visible> 
+	<path>./_INC/gamecarouseldireita.png</path>
+	<pos>0 0</pos>
+	<size>1 1</size>
+ </image>
+	
+	<image name="sombra1" extra="true">
+     <visible>false</visible> 
+ </image>
+	
+	<image name="art" extra="true">
+	<visible>false</visible> 
+ </image>
+   
+ <text name="md_name">
+ <visible>false</visible> 
+ <pos>0.2 0.60</pos> 
+ <maxSize>0.3 0.1</maxSize>
+  </text>
+	
+	<image name="logo03" extra="true">
+ <visible>false</visible> 
+	</image>
+	
+	<text name="logoText">
+ <visible>false</visible> 
+    </text>
+		
+    <image name="screen_effect" extra="true">
+ <visible>false</visible> 
+	</image>
+	
+	<text name=" md_lbl_players,md_lbl_publisher,md_publisher,md_lbl_developer,logoText,md_developer,md_lbl_releasedate,md_releasedate,md_lbl_rating,md_lbl_genre,md_genre,md_description,md_lbl_playcount,md_lbl_lastplayed, md_lbl_gametime,md_lbl_playcount,md_lbl_lastplayed,md_lbl_gametime,md_playcount,md_lastplayed,md_gametime,md_players">
+<visible>false</visible>
+</text> 
+
+</customView>  
+
+</theme>

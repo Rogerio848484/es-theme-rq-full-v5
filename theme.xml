@@ -342,4 +342,6 @@
 <include name="Gamelist RQ Lista">./Gamelist-RQ-lista.xml</include>
 <include name="Gamelist art">./Gamelist-art.xml</include>
 <include name="Gamelist Horizontal">./Gamelist-Horizontal.xml</include>
+<include name="Gamelist Video + Marquee">./gamelist_video+marquee.xml</include>
+
  </theme>
