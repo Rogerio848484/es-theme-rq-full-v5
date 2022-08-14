@@ -19,163 +19,141 @@
 <imageSource>marquee</imageSource>
 </gamecarousel> 
 	 
-     <helpsystem name="help">
-	   <pos>0 0.965</pos>
-     </helpsystem>
+<helpsystem name="help">
+<pos>0 0.965</pos>
+</helpsystem>
 	 
-	   	<image name="md_image">
-		<visible>false</visible>
-	  	<pos>0.29 0.54</pos>
-        <origin>0.5 0.5</origin>
-		<size>0.4 0.50</size>
-         <zIndex>4</zIndex>         
-      </image> 
+<image name="md_image">
+<visible>false</visible>
+</image> 
 
 <image name="maqueta" extra="true">
 <visible>false</visible>
-<pos>0.287 0.121</pos>
-<size>0.455 0.200</size>
-	  <color>ffffff</color>
-	  <path>./default/_inc/system1.png</path>
-	  <path>./_inc/WHEELHYPERMAXPLUS/${system.theme}/_inc/system1.png</path>
-      <origin>0.5 0.5</origin>
-	  <zIndex>10</zIndex>
-	</image>
+</image>
 
-	<image name="md_fanart">
-      <pos>0 0</pos>
-      <visible>true</visible>
-      <origin>0 0</origin>
-      <size>1 1</size>
-      <zIndex>1</zIndex>
-    </image>
+<image name="md_fanart">
+<pos>0 0</pos>
+<visible>true</visible>
+<origin>0 0</origin>
+<size>1 1</size>
+<zIndex>1</zIndex>
+</image>
+
+<video name="md_video">
+<pos>0.5 0.5</pos>
+<size>1 1</size>
+<zIndex>2</zIndex>  
+<delay>2</delay>		
+</video>
 	
-	<video name="md_video">
-        <pos>0.5 0.5</pos>
-        <size>1 1</size>
-        <zIndex>2</zIndex>  
-        <delay>2</delay>		
-    </video>
-	
-	<image name="md_cartridge">
-        <pos>0.87 0.435</pos>
-        <maxSize>0.15 0.15</maxSize>
-		<origin>0.5 0.5</origin>
-        <zIndex>5</zIndex>  
-    </image>  	
+<image name="md_thumbnail">
+<pos>0.17 0.35</pos>
+<visible>true</visible>
+<maxSize>0.45 0.45</maxSize>
+<origin>0.5 0.5</origin>
+<zIndex>5</zIndex>  
+<storyboard event="activateNext">
+<animation property="opacity" from="0" to="0" begin="0" duration="500" mode="linear"/>
+<animation property="opacity" from="0" to="1" begin="1000" duration="500" mode="linear"/>
+<animation property="scale" from="0" to="1" begin="1000" duration="1000" mode="linear"/>
+<animation property="rotation" from="-360" begin="1000" duration="1000" mode="linear"/>
+</storyboard>
+<storyboard event="activatePrev">
+<animation property="opacity" from="0" to="0" begin="0" duration="500" mode="linear"/>
+<animation property="opacity" from="0" to="1" begin="1000" duration="500" mode="linear"/>
+<animation property="scale" from="0" to="1" begin="1000" duration="1000" mode="linear"/>
+<animation property="rotation" from="-360" begin="1000" duration="1000" mode="linear"/>
+</storyboard>
+<storyboard event="open">
+<animation property="opacity" from="0" to="0" begin="0" duration="500" mode="linear"/>
+<animation property="opacity" from="0" to="1" begin="1000" duration="500" mode="linear"/>
+<animation property="scale" from="0" to="1" begin="1000" duration="1000" mode="linear"/>
+<animation property="rotation" from="-360" begin="1000" duration="1000" mode="linear"/>
+</storyboard>
+</image>  	
 
 <image name="pointer1" extra="true">
 <visible>false</visible>
-<pos>0.97 0.50</pos>
-<origin>0.5 0.5</origin>
-<size>0.055 0.155</size>
-<color>ffffffA6</color>
-<path>./art/sistemas/pointer/default.png</path>
-<path>./art/sistemas/pointer/${system.theme}.png</path>
-<zIndex>999</zIndex> 
 </image>
 
 <image name="pointer" extra="true">
  <visible>false</visible>
 </image>
 
-	<image name="wallpaper1" extra="true">
-      <pos>0 0</pos>
-	  <visible>false</visible>
-      <size>1 1</size>
-      </image> 
+<image name="wallpaper1" extra="true">
+<pos>0 0</pos>
+<visible>false</visible>
+<size>1 1</size>
+</image> 
 	
-			<rating name="md_rating">
- <visible>false</visible> 
-		</rating>
+<rating name="md_rating">
+<visible>false</visible> 
+</rating>
 		
-		<image name="system-background" extra="true">
- <visible>false</visible> 
-        </image> 
+<image name="system-background" extra="true">
+<visible>false</visible> 
+</image> 
 		
-		<image name="md_boxback">
-		<visible>false</visible> 
-        <pos>0.1 0.2</pos>
-        <origin>0 0</origin>
-        <size>0.2 0.50</size>
-        <zIndex>10</zIndex>
-	    </image>
+<image name="md_boxback">
+<visible>false</visible> 
+<pos>0.1 0.2</pos>
+<origin>0 0</origin>
+<size>0.2 0.50</size>
+<zIndex>10</zIndex>
+</image>
 		
-	<image name="sombra1" extra="true">
-    <origin>0 0</origin>
-	<visible>false</visible>
-    <pos>0 0</pos>
-    <size>1 1</size>
-	<path>./_inc/caratula.png</path>
-    <zIndex>5</zIndex> 
-    </image> 	
+<image name="sombra1" extra="true">
+<visible>false</visible>
+</image> 	
 	
-	<image name="art" extra="true">
-	<origin>0.5 0.5</origin>
-	<visible>false</visible>
-	<pos>0.5 0.5</pos>
-	<minSize>1 1</minSize>
-	<path>./_inc/images/overlay1.png</path>
-	<zIndex>100</zIndex>
-	</image>
-	
-	<image name="seta" extra="true">
-	   <visible>true</visible>
-       <pos>0 0.03</pos>
-       <size>1 1</size>
-       <path>./_inc/QUADRILHOS/selector.png</path>
-       <zIndex>1000000</zIndex>          
-    </image>
+<image name="art" extra="true">
+<visible>false</visible>
+</image>
 		
-	<image name="sombra" extra="true">
-	<visible>false</visible> 
-    <origin>0 0</origin>
-    <pos>0 0</pos>
-    <size>1 1</size>
-	<path>./_inc/vewlix centro.png</path>
-    <zIndex>6</zIndex> 
-    </image> 
+<image name="sombra" extra="true">
+<visible>false</visible> 
+</image> 
 	
-  <image name="sombra1" extra="true">
-  <visible>true</visible> 
-    <origin>0 0</origin>
-    <pos>0 0</pos>
-    <size>1 1</size>
-	<path>./_inc/QUADRILHOS/BLACK9.png</path>
-    <zIndex>5</zIndex> 
-    </image> 
+<image name="sombra1" extra="true">
+<visible>true</visible> 
+<origin>0 0</origin>
+<pos>0 0</pos>
+<size>1 1</size>
+<path>./_inc/QUADRILHOS/BLACK9.png</path>
+<zIndex>5</zIndex> 
+</image> 
+	
+<image name="seta" extra="true">
+<visible>true</visible>
+<pos>0 0.03</pos>
+<size>1 1</size>
+<path>./_inc/QUADRILHOS/selector.png</path>
+<zIndex>1000000</zIndex>          
+</image>
   
-  <image name="sombra2" extra="true">
-  <visible>false</visible>
-    <origin>0 0</origin>
-    <pos>0 0</pos>
-    <size>1 1</size>
-	<path>./_inc/CoinOPS.png</path>
-    <zIndex>6</zIndex> 
-    </image> 
-
-   		<image name="md_thumbnail">
-		<visible>false</visible>
-        </image> 
-		
-	  <image name="md_marquee">
- <visible>false</visible> 
+<image name="sombra2" extra="true">
+<visible>false</visible>
+</image> 
+ 
+<image name="md_marquee">
+<visible>false</visible> 
 </image>
    
 
-	<text name="md_name">
- <visible>false</visible> 		
-	</text>
+<text name="md_name">
+<visible>false</visible> 		
+</text>
 	
-	<image name="logo" extra="true">
- <visible>true</visible> 
- <pos>0.5 0.2</pos>
- <path>./_inc/logosclean/${system.theme}.png</path>
-	</image>
+<image name="logo">
+<visible>true</visible> 
+<maxSize>0.25 0.25</maxSize>
+<pos>0.5 0.08</pos>
+<path>./_inc/logosclean/${system.theme}.png</path>
+</image>
 	
-	<text name="logoText">
- <visible>false</visible> 
-    </text>
-   </customView>
+<text name="logoText">
+<visible>false</visible> 
+</text>
+</customView>
    
-   </theme>
+</theme>

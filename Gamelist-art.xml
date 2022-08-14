@@ -129,9 +129,9 @@
 		
 	<image name="md_fanart">
 	<visible>true</visible>
-    <pos>0.383 0.23</pos>
+    <pos>0.383 0.228</pos>
     <origin>0 0</origin>
-    <size>0.333 0.44</size>
+    <size>0.3338 0.445</size>
     <zIndex>2000</zIndex>
     </image>
 
